@@ -12,6 +12,8 @@ Library: C:\ProyectosUnity\La-vida-de-Esfera\Temp\BurstOutput\tempburstlibs\arm6
 --assembly-defines=Meta.XR.Audio;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=Oculus.Interaction;
+--assembly-defines=Oculus.Interaction.OVR;
 --assembly-defines=Oculus.VR;
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
@@ -23,6 +25,7 @@ Library: C:\ProyectosUnity\La-vida-de-Esfera\Temp\BurstOutput\tempburstlibs\arm6
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.XR.Oculus;
 --assembly-defines=UnityEngine;
@@ -47,6 +50,8 @@ Library: C:\ProyectosUnity\La-vida-de-Esfera\Temp\BurstOutput\tempburstlibs\arm6
 --assembly-defines=Meta.XR.Audio;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=Oculus.Interaction;
+--assembly-defines=Oculus.Interaction.OVR;
 --assembly-defines=Oculus.VR;
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
@@ -58,6 +63,7 @@ Library: C:\ProyectosUnity\La-vida-de-Esfera\Temp\BurstOutput\tempburstlibs\arm6
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.XR.Oculus;
 --assembly-defines=UnityEngine;
